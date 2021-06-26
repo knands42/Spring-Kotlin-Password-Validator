@@ -16,7 +16,7 @@
 
 ### Showcase
 
-**Execute the app using InteliJ or another smart IDE ja java/kotlin** </br>
+**Execute the app using InteliJ or another smart IDE for java/kotlin** </br>
 
 - **When the app is running, execute the code below on the terminal to get a response from the verification for the password:** **AbTp9!fogV45k**
 
@@ -37,8 +37,14 @@ curl --request POST \
 }
 ```
 
+</br>
+
 - **An example of how to make a request using Insomnia:** </br>
-  <img src="assets/request-example.png" align="center" />
+
+<img src="assets/request-example.png" align="center" />
+
+</br></br>
 
 - **There are tests to ensure validation, and to prove that just run one of them on InteliJ as shown the image below:** </br>
-  <img src="assets/test-example.png" align="center" />
+
+<img src="assets/test-example.png" align="center" />
