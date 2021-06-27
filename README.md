@@ -7,7 +7,7 @@
     This project has a simple folder structure, so everyone that will work along on this project
     should understand at first look.
 
-> controller -> Where our endpoint are located, also where the validation for the incoming payload (validation was not treated in this project) </br>
+> controller -> Where our endpoint are located, also where the validation for the incoming payload (validation was not coverade in this project) </br>
 > domain -> Where our models/entities are located, they will abstract and structure all the data of the application </br>
 > dtos -> Responsible to how the incoming data should be structured </br>
 > service -> Where we are going to connect the incoming data, apply some logic to it and return the result based on our models</br>
